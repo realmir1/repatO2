@@ -16,7 +16,7 @@ This C++ program analyzes respiration rate based on user input. Monitoring respi
    - To compile your C++ program, you will need a C++ compiler. For example, you can compile the program using g++ with the following command:
    
      ```bash
-     g++ respiration_rate.cpp -o respiration_rate
+     g++ main.cpp -o respiration_rate
      ```
 
 2. **Running the Program:**
@@ -36,18 +36,12 @@ This C++ program analyzes respiration rate based on user input. Monitoring respi
 
 ## Requirements
 
-- A C++ compiler (e.g., g++, Clang)
+- C++ compiler (e.g., g++, Clang)
 - Standard C++ library (included with most compilers)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or feedback, feel free to contact me at:  
 
 
 
 
-T
+
+
