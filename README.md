@@ -1,15 +1,16 @@
 
-# Respiration Rate Analysis Program
+# Respiration Rate Analysis Program 🚀
 
 This C++ program analyzes respiration rate based on user input. Monitoring respiration rate can be a critical indicator of health status, and this program is particularly useful in medical analysis and biomedical engineering applications.
+<br>
 
-## Features
+## Features 
 
 - **Respiration Rate Calculation:** The program takes user input (e.g., number of breaths taken in one minute) and calculates the respiration rate.
 - **Results Evaluation:** The calculated respiration rate is evaluated to determine whether it falls within the normal range for a healthy individual.
 - **User-Friendly Interface:** The program is designed to be simple to use, allowing users to quickly input data and receive results.
 - **Health Categorization:** Based on the calculated respiration rate, the program classifies the result into various categories to provide users with feedback on their health status.
-
+<br>
 ## Usage
 
 1. **Compiling the Program:**
@@ -32,15 +33,17 @@ This C++ program analyzes respiration rate based on user input. Monitoring respi
 4. **Output:**
    - After entering the required data, the program will display your respiration rate along with a health categorization ( Normal, Tachypnea, Bradypnea) based on the result.
 
+<br>
 
-
-## Requirements
+## Requirements 💻
 
 - C++ compiler (e.g., g++, Clang)
 - Standard C++ library (included with most compilers)
-
-
-
+<br>
+<p align="center"> 
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*HehFU-QEbhxk6EIW" width="500" >
+</p>
+<br>
 
 
 
